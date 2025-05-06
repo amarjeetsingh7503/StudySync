@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StudySync/static/css/main.a25fe342.css",
+    "main.js": "/StudySync/static/js/main.8598dd9d.js",
+    "index.html": "/StudySync/index.html",
+    "main.a25fe342.css.map": "/StudySync/static/css/main.a25fe342.css.map",
+    "main.8598dd9d.js.map": "/StudySync/static/js/main.8598dd9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25fe342.css",
+    "static/js/main.8598dd9d.js"
+  ]
+}
